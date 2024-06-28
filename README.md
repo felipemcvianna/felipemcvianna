@@ -1,10 +1,13 @@
 ### Olá! Eu me chamo Felipe Miranda 👋
-##### A procura de um estágio 😀
-<br/> 
-
+##### A procura de um estágio 😀<br/> 
+### Redes sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-miranda-8b0b04253/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemcvianna&show_icons=true&theme=cobalt)
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemcvianna&show_icons=true&theme=shades-of-purple)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemcvianna&layout=compact&theme=shades-of-purple)
+
 
 ## Tecnologias que utilizo 
 
