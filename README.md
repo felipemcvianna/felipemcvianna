@@ -3,9 +3,6 @@
 ### Redes sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-miranda-8b0b04253/)
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemcvianna&show_icons=true&theme=shades-of-purple)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemcvianna&layout=compact&theme=shades-of-purple)
 
 
